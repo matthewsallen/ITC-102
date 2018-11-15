@@ -10,13 +10,14 @@
 
 </body> 
 
-<body>
+
 <h3>Group Bio</h3>
+
 <button type="button" onclick="alert('Hello world!')">Gerald Verzosa</button>
 <button type="button" onclick="alert('Hello world!')">Terry Anderson</button>
 <button type="button" onclick="alert('Hello world!')">Matthew Allen</button>
 <button type="button" onclick="alert('Hello world!')">Antonia Taylor</button>
-</body>
+
 
 <p>In the main page we will enter basic information, links and pictures to the other pages we create.</p>
 
