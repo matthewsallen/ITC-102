@@ -13,7 +13,7 @@
 
 <h3>Group Bio</h3>
 
-<button type="button" onclick="alert('Hello world!')">Gerald Verzosa</button>
+<button type="button" onclick="alert('My favorite thing to do is sleeping.')">Gerald Verzosa</button>
 <button type="button" onclick="alert('Hello world!')">Terry Anderson</button>
 <button type="button" onclick="alert('Hello world!')">Matthew Allen</button>
 <button type="button" onclick="alert('Hello world!')">Antonia Taylor</button>
