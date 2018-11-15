@@ -1,7 +1,8 @@
- <!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
 <h1>This is our group website</h1>
+<link rel="stylesheet" href="resources/stylesheet.css"/>
 </head>
 
  <body style="background-image:url('https://images.pexels.com/photos/1092364/pexels-photo-1092364.jpeg')">
@@ -13,13 +14,13 @@
 
 <h3>Group Bio</h3>
 
-<button type="button" onclick="alert('My favorite thing to do is sleep')">Gerald Verzosa</button>
-<button type="button" onclick="alert('Hello world!')">Terry Anderson</button>
-<button type="button" onclick="alert('Hello world!')">Matthew Allen</button>
-<button type="button" onclick="alert('my name is antonia. i possess aspirations to become a web designer sometime in the future. design, color, code, and the like are fun to play with. being paid to play with color and code will be cool. aside from web design, i enjoy felines including my very own. i also like playing video games and watching horror movies. i like talking about horror movies so much that i made a page about my thoughts on some horror movies.')">Antonia Taylor</button>
+<button type="button" onclick="alert('My favorite thing to do is sleep')" class="biobutton">Gerald Verzosa</button>
+<button type="button" onclick="alert('Hello world!')" class="biobutton">Terry Anderson</button>
+<button type="button" onclick="alert('Matthew Allen is a ')" class="biobutton">Matthew Allen</button>
+<button type="button" onclick="alert('Hello world!')" class="biobutton">Antonia Taylor</button>
 
 
-<p>In the main page we will enter basic information, links and pictures to the other pages we create.</p>
+<p id="maintext">In the main page we will enter basic information, links and pictures to the other pages we create.</p>
 
 </body>
 </html> 
