@@ -4,20 +4,18 @@
 <title>This is our group website</title>
 </head>
 
-<body style="background-image:url('https://images.pexels.com/photos/1092364/pexels-photo-1092364.jpeg')">
+ <body style="background-image:url('https://images.pexels.com/photos/1092364/pexels-photo-1092364.jpeg')">
 
 <h2>Background Image</h2>
 
 </body> 
 
 
-<center>
 <h3>Group Bio</h3>
 <button type="button" onclick="alert('Hello world!')">Gerald Verzosa</button>
 <button type="button" onclick="alert('Hello world!')">Terry Anderson</button>
 <button type="button" onclick="alert('Hello world!')">Matthew Allen</button>
 <button type="button" onclick="alert('Hello world!')">Antonia Taylor</button>
-</center>
 
 <h1>This will be the main page</h1>
 <p>In the main page we will enter basic information, links and pictures to the other pages we create.</p>
