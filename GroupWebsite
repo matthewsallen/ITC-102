@@ -8,7 +8,13 @@
 
 <h2>Background Image</h2>
 
-
+<center>
+<h2>Group Bio</h2>
+<button type="button" onclick="alert('Hello world!')">Gerald Verzosa</button>
+<button type="button" onclick="alert('Hello world!')">Terry Anderson</button>
+<button type="button" onclick="alert('Hello world!')">Matthew Allen</button>
+<button type="button" onclick="alert('Hello world!')">Antonia Taylor</button>
+</center>
 
 <h1>This will be the main page</h1>
 <p>In the main page we will enter basic information, links and pictures to the other pages we create.</p>
