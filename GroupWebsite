@@ -3,10 +3,13 @@
 <head>
 <title>This is our group website</title>
 </head>
-<body>
- <body style="https://images.pexels.com/photos/1092364/pexels-photo-1092364.jpeg">
+
+ <body style="background-image:url('https://images.pexels.com/photos/1092364/pexels-photo-1092364.jpeg')">
 
 <h2>Background Image</h2>
+
+</body> 
+
 
 <center>
 <h2>Group Bio</h2>
