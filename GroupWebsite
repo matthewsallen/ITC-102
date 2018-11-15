@@ -17,7 +17,7 @@
 <button type="button" onclick="alert('Hello world!')">Matthew Allen</button>
 <button type="button" onclick="alert('Hello world!')">Antonia Taylor</button>
 
-<h1>This will be the main page</h1>
+
 <p>In the main page we will enter basic information, links and pictures to the other pages we create.</p>
 
 </body>
