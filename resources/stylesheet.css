@@ -20,7 +20,30 @@ h3 {
 body {
 	background-color: #5d6d7e ;
 }
+.navbutton {
+	background-color: #4682B4;
+	border: none;
+	color: white;
+	padding: 22px 22px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+	font-family: verdana;
+}
 
+#navbar {
+	margin: 5px;
+	width: 100%;
+	position: relative;
+    	top: 0px;
+}
+
+.biobutton {
+  
+}
 
 ul {
     list-style-type: none;
