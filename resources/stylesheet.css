@@ -45,6 +45,15 @@ p {
 	width: 50%;
 }
 
+
+#logo {
+    position: relative;
+	top: 0px;
+    	right: 0px;
+}
+    
+
+
 .biobutton {
   
 }
