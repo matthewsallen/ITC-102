@@ -7,11 +7,37 @@ h1 {
 }
 
 h3 {
-  font-family: "Brush Script MT"
+	font-family: "Brush Script MT"
 }
 
 body {
-  
+	background-color: #5d6d7e ;
+}
+
+h1 {
+	color: white; 
+	font-family: Domenico;
+}
+
+p {
+	color: white;
+	font-family: Domenico; 
+	background-opacity: 0.5; 
+	background-color: #4682B4;
+}
+
+.button {
+    background-color: #4682B4;
+    border: none;
+    color: white;
+    padding: 22px 22px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    font-family: verdana;
 }
 
 .biobutton {
@@ -19,7 +45,7 @@ body {
 }
 
 #maintext {
-    margin: auto;
-    width: 50%;
+	margin: auto;
+	width: 50%;
 }
 
