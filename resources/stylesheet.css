@@ -41,11 +41,12 @@ body {
     	top: 0px;
 }
 
-.biobutton {
+
   
 body {
     font-family: "Lato", sans-serif;
 }
+	
 .sidenav {
     height: 100%;
     width: 200px;
@@ -87,22 +88,3 @@ body {
     .sidenav a {font-size: 18px;}
 }
 
-
-
-h1 {
-	color: white; 
-	font-family: verdana;
-}
-
-p {
-	color: white;
-	font-family: verdana; 
-	background-opacity: 0.5; 
-	background-color: #4682B4;
-}
-
-
-#maincontent {
-	margin: auto;
-	width: 50%;
-}
