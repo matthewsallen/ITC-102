@@ -16,12 +16,12 @@ body {
 
 h1 {
 	color: white; 
-	font-family: Domenico;
+	font-family: verdana;
 }
 
 p {
 	color: white;
-	font-family: Domenico; 
+	font-family: verdana; 
 	background-opacity: 0.5; 
 	background-color: #4682B4;
 }
