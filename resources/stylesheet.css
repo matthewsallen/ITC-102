@@ -6,6 +6,12 @@ h1 {
 
 }
 
+#logo {
+    position: relative;
+	top: 0px;
+    	right: 0px;
+}
+
 h3 {
 	font-family: "Brush Script MT"
 }
@@ -46,11 +52,7 @@ p {
 }
 
 
-#logo {
-    position: relative;
-	top: 0px;
-    	right: 0px;
-}
+
     
 
 
