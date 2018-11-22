@@ -33,6 +33,11 @@ body {
 	cursor: pointer;
 	font-family: verdana;
 }
+.navbutton a:hover {
+    background-color: #00cc99;
+    color: black;
+}
+
 
 #navbar {
 	margin: 5px;
@@ -41,8 +46,6 @@ body {
     	top: 0px;
 }
 
-
-  
 body {
     font-family: "Lato", sans-serif;
 }
