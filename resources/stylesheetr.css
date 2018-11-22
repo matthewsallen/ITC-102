@@ -26,18 +26,18 @@ p {
 	background-color: #4682B4;
 }
 
-.button {
-    background-color: #4682B4;
-    border: none;
-    color: white;
-    padding: 22px 22px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    margin: 4px 2px;
-    cursor: pointer;
-    font-family: verdana;
+.navbutton {
+	background-color: #4682B4;
+	border: none;
+	color: white;
+	padding: 22px 22px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+	font-family: verdana;
 }
 
 .biobutton {
