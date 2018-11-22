@@ -41,7 +41,8 @@ p {
 }
 
 #navbar {
-	
+	margin: auto;
+	width: 50%;
 }
 
 .biobutton {
