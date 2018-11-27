@@ -72,7 +72,7 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-.sidenav a:hover {
+.sidebar-entry a:hover {
     background-color: #5555;
     color: black;
 }
