@@ -54,6 +54,7 @@ body {
 #container {
 	width: 900px;
 	margin: 0 auto;
+	border: 1px solid red;
 }
 
 /* Sidebar */
@@ -63,8 +64,7 @@ body {
 	float: left;
 	width: 30%;
 	text-align: center;
-	background-color: #5d6d7e;
-	padding-top: 20px;
+	border: 1px solid green;
 }
 
 .sidebar-entry {
@@ -92,33 +92,20 @@ body {
 /* Main text area */
 
 #main {
-	font-size: 16px; /* Increased text to enable scrolling */
-	color: black;
-	font-family: Arial, Helvetica, sans-serif;
-	background-color: white;
 	box-sizing: border-box;
-    float: left;
-    width: 70%;
-    text-align: center;
-	display: table;
-	margin: 0 auto;
+	float: left;
+	width: 70%;
+	text-align: center;
+	border: 1px solid yellow;
 }
 
 #main-title {
-	display: table;
-	margin: 0 auto;
 }
 
 #main-image {
-	display: table;
-	margin: 0 auto;
 }
 
 #main-text {
-	text-align: center;
-	width: 500px;
-	display: table;
-	margin: 0 auto;
 }
 
 @media screen and (max-height: 450px) {
