@@ -52,19 +52,25 @@ body {
 /* Content area */
 
 #container {
+	/* This makes everything center aligned. */
+	/* Please do not touch. */
 	width: 900px;
 	margin: 0 auto;
-	border: 1px solid red;
+	/* Do not touch ends here. */
 }
 
 /* Sidebar */
 
 #sidebar {
+	/* This makes everything center aligned. */
+	/* Please do not touch. */
 	box-sizing: border-box;
 	float: left;
 	width: 30%;
 	text-align: center;
-	border: 1px solid green;
+	/* Do not touch ends here. */
+	background-color: #5d6d7e;
+	padding-top: 20px;
 }
 
 .sidebar-entry {
@@ -92,20 +98,27 @@ body {
 /* Main text area */
 
 #main {
+	/* This makes everything center aligned. */
+	/* Please do not touch. */
 	box-sizing: border-box;
 	float: left;
 	width: 70%;
 	text-align: center;
-	border: 1px solid yellow;
+	/* Do not touch ends here. */
+	font-size: 16px; /* Increased text to enable scrolling */
+	color: black;
+	background-color: white;
 }
 
 #main-title {
+	font-family: Arial, Helvetica, sans-serif;
 }
 
 #main-image {
 }
 
 #main-text {
+	font-family: Arial, Helvetica, sans-serif;
 }
 
 @media screen and (max-height: 450px) {
