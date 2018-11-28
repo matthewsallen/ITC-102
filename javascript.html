@@ -1,32 +1,37 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 	<head>
+		<link href="https://fonts.googleapis.com/css?family=Open+Sans|Open+Sans+Condensed:700|Ranga" rel="stylesheet"/> 
 		<link rel="stylesheet" href="resources/stylesheet.css"/>
-		<title>Title goes here</title>
+		<link rel="icon" type="image/png" href="resources/favicon.png"/>
+		<title>Javascript</title>
 	</head>
 	<body>
-		<div id="sidebar">
-			<img src="https://cdn.pbrd.co/images/HOgPhEs.png" id="logo"/><br>
-			<a href="https://matthewsallen.github.io/ITC-102/index.html" class="sidebar-entry">Home</a>
-			<a href="https://matthewsallen.github.io/ITC-102/antonia.html" class="sidebar-entry">Antonia</a>
-			<a href="https://matthewsallen.github.io/ITC-102/gerald.html" class="sidebar-entry">Gerald</a>
-			<a href="https://matthewsallen.github.io/ITC-102/matt.html" class="sidebar-entry">Matt</a>
-			<a href="https://matthewsallen.github.io/ITC-102/terry.html" class="sidebar-entry">Terry</a>
-			<a href="https://matthewsallen.github.io/ITC-102/css.html" class="sidebar-entry">CSS</a>
-			<a href="https://matthewsallen.github.io/ITC-102/html.html" class="sidebar-entry">HTML</a>
-			<a href="https://matthewsallen.github.io/ITC-102/javascript.html" class="sidebar-entry">JavaScript</a>
+		<div id="container">
+			<div id="sidebar">
+				<img src="resources/itc-logo.png" id="logo"/><br/>
+				<a href="index.html" class="sidebar-entry">Home</a>
+				<a href="antonia.html" class="sidebar-entry">Antonia</a>
+				<a href="gerald.html" class="sidebar-entry">Gerald</a>
+				<a href="matt.html" class="sidebar-entry">Matt</a>
+				<a href="terry.html" class="sidebar-entry">Terry</a>
+				<a href="css.html" class="sidebar-entry">CSS</a>
+				<a href="html.html" class="sidebar-entry">HTML</a>
+				<a href="javascript.html" class="sidebar-entry">JavaScript</a>
+				<a href="funstuff.html" class="sidebar-entry">Fun Stuff</a>
+			</div>
+			<div id="main">
+				<h1 id="main-title">JavaScript</h1> 
+				<br>
+				<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/240px-Unofficial_JavaScript_logo_2.svg.png" id="main-image">
+				<br>
+				<p id="main-text">
+					JavaScript is a programming language. JavaScript can update and change HTML and CSS. JavaScript can make things like animated graphics or, dynamically update web pages, like your Facebook timeline. Most web browsers and mobile browsers support JavaScript.<br/>
+					Example of JavaScript:<br/>
+					<div id="demo">JavaScript can change HTML content.</div><br/>
+					<button type="button" onclick='document.getElementById("demo").innerHTML = "Hello JavaScript!"'>Click Me!</button>
+				</p>
+			</div>
 		</div>
-		<div id="main">
-			<h1>JavaScript</h1> 
-			<br>
-			<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/240px-Unofficial_JavaScript_logo_2.svg.png">
-			<br>
-			<p>JavaScript is a programming language. JavaScript can update and change HTML and CSS. JavaScript can make things like animated graphics or, dynamically update web pages, like your Facebook timeline. Most web browsers and mobile browsers support JavaScript.</p>
-			<p>Example of JavaScript</p>
-			<p id="demo">JavaScript can change HTML content.</p>
-
-<button type="button" onclick='document.getElementById("demo").innerHTML = "Hello JavaScript!"'>Click Me!
-		</div>
-
 	</body>
 </html>
