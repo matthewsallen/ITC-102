@@ -119,6 +119,9 @@ body {
 
 #main-text {
 	font-family: 'Open Sans', sans-serif;
+	width: 90%;
+	display: block;
+	margin: auto;
 }
 
 @media screen and (max-height: 450px) {
